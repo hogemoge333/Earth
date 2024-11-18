@@ -6,7 +6,7 @@ namespace Earth
         {
             InitializeComponent();
             MessageBox.Show("yucky yucky");
-            MessageBox.Show("yucky2 yucky2");
+            MessageBox.Show("sub3 sub3");
         }
     }
 }
