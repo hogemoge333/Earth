@@ -5,6 +5,7 @@ namespace Earth
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("yucky yucky");
         }
     }
 }
